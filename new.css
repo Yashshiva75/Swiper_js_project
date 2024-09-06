@@ -13,7 +13,7 @@ body{
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background: linear-gradient(#ECEFFE,#CED6FB);
+    background: linear-gradient(#e75b62,#22a3b9);
 }
 .card_list .card_item .card_link .card_image{
    width: 100%;
@@ -26,7 +26,7 @@ border-radius: 12px;
 .card_list .card_item .card_link{
     user-select: none;
     display: block;
-    background-color: #fff;
+    background-color: #ce98a5;
     padding: 18px;
     border-radius: 12px;
     text-decoration: none;
